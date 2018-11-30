@@ -13,7 +13,7 @@ html body {
   padding: 0;
 }
 
-.nav:last-child {
+.navli:last-child {
   float: right;
 }
 
