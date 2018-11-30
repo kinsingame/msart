@@ -40,3 +40,11 @@ html body {
   color: black;
   text-decoration: none;
 }
+
+.combine {
+  width: 45%;
+}
+
+.ingredients {
+  width: 100%;
+}
