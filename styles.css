@@ -63,12 +63,12 @@ html body {
   height: auto;
 }
 
-.mprojnav {
+.mprojnav a {
   font-size: 30px;
   text-decoration: none;
   color: black;
 }
 
-.mprojnav:hover {
+.mprojnav a:hover {
   color: blue;
 }
