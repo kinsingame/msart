@@ -3,12 +3,15 @@ html body {
 }
 
 .navdiv {
+  display: block;
   width: 100%;
   background-color: #C0C0C0;
+  border-bottom: 8px white;
 }
 
 .nav {
   list-style-type: none;
+  background-color: #C0C0C0;
   margin: 0;
   padding: 0;
 }
@@ -59,5 +62,11 @@ html body {
 }
 
 .mprojnav {
-  font-size: 60px;
+  font-size: 30px;
+  text-decoration: none;
+  color: black;
+}
+
+.mprojnav:hover {
+  color: blue;
 }
