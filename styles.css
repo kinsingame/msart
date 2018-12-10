@@ -21,11 +21,10 @@ html body {
   display: inline-block;
   background-color: #C0C0C0;
   border-bottom: 8px white;
-  width: auto;
-  width: 100%
 }
 
 .big-nav, .active-big-nav {
+  display: inline-block;
   padding: 30px;
   font-size: 20px;
   text-align: center;
