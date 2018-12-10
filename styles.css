@@ -23,13 +23,12 @@ html body {
   border-bottom: 8px white;
   padding-top: 30px;
   padding-bottom: 30px;
-}
-
-.big-nav, .active-big-nav {
   width: auto;
   max-width: 400px;
   min-width: 100px;
-  display: inline-block;
+}
+
+.big-nav, .active-big-nav {
   font-size: 20px;
   text-align: center;
   color: black;
