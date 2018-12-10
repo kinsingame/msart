@@ -24,11 +24,11 @@ html body {
   padding-top: 30px;
   padding-bottom: 30px;
   width: auto;
-  max-width: 400px;
-  min-width: 100px;
+  width: 100%
 }
 
 .big-nav, .active-big-nav {
+  padding: 30%;
   font-size: 20px;
   text-align: center;
   color: black;
