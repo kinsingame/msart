@@ -21,14 +21,12 @@ html body {
   display: inline-block;
   background-color: #C0C0C0;
   border-bottom: 8px white;
-  padding-top: 30px;
-  padding-bottom: 30px;
   width: auto;
   width: 100%
 }
 
 .big-nav, .active-big-nav {
-  padding: 30%;
+  padding: 30px;
   font-size: 20px;
   text-align: center;
   color: black;
