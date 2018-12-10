@@ -27,7 +27,7 @@ html body {
 .big-nav, .active-big-nav {
   display: inline-block;
   width: auto;
-  padding: 30px;
+  padding: auto;
   font-size: 20px;
   text-align: center;
   color: black;
