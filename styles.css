@@ -19,9 +19,9 @@ html body {
 
 .navli {
   display: inline-block;
-  float: left;
   background-color: #C0C0C0;
   border-bottom: 8px white;
+  width: auto;
 }
 
 .big-nav, .active-big-nav {
