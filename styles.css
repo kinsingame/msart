@@ -22,12 +22,19 @@ html body {
   background-color: #C0C0C0;
   border-bottom: 8px white;
   width: auto;
+  max-width: 150px;
+  min-width: 100px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .big-nav, .active-big-nav {
   display: inline-block;
+  max-width: 150px;
+  min-width: 100px;
   width: auto;
-  padding: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
   font-size: 20px;
   text-align: center;
   color: black;
