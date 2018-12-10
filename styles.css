@@ -17,10 +17,6 @@ html body {
   width: 100%;
 }
 
-.navli:last-child {
-  float: right;
-}
-
 .navli {
   display: inline-block;
   float: left;
